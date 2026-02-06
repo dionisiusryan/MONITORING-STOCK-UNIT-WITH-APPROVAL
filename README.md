@@ -22,7 +22,7 @@ The application was developed to move away from error-prone manual tracking (lik
 * **Frontend:** `[html, css, Bootstrap]`
 * **Backend:** `[Laravel (PHP)]`
 * **Database:** `[MySQL]`
-* **Deployment:** `[ Hosted on a company's private server, AWS, DigitalOcean]`
+* **Deployment:** `[ Hosted on a company's private server]`
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -30,3 +30,15 @@ The application was developed to move away from error-prone manual tracking (lik
 ### Screenshot / Demo
 
 <img width="1832" height="891" alt="gambar" src="https://github.com/user-attachments/assets/336f699e-be35-4f2a-b1f8-7ba61cacf264" />
+<img width="1755" height="929" alt="gambar" src="https://github.com/user-attachments/assets/9f9f79d3-7f89-4c92-a503-a128120edf9a" />
+<img width="1758" height="738" alt="gambar" src="https://github.com/user-attachments/assets/bb0d7fda-324c-48f8-9161-4c042ac73a98" />
+<img width="1767" height="543" alt="gambar" src="https://github.com/user-attachments/assets/a8f90c42-21fa-457f-b33e-35239caee2f5" />
+<img width="1730" height="922" alt="gambar" src="https://github.com/user-attachments/assets/719c0e14-bbcd-45af-be88-ac4c6efc90be" />
+<img width="1769" height="891" alt="gambar" src="https://github.com/user-attachments/assets/6876a266-86be-41ca-96c4-2ad55da53c8a" />
+<img width="1771" height="662" alt="gambar" src="https://github.com/user-attachments/assets/9d93a7bf-c76a-4aee-8679-65ae2a867e87" />
+
+
+
+
+
+
